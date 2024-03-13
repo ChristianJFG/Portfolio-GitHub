@@ -6,5 +6,3 @@ Maxmin_Driving_Force: In this project a linear optimization algorithm was implem
 Modelo_final_autómatas: A model was made with the cellular automata theory in order to recreate genetic circuits and analyze their functioning. //
 Probabilidad_Frecuentista: Program that calculates the effect of performing multiple random experiments on the convergence to a frequency probability.  //
 Labs_Batch_5: Examples of Machine Learning algorithms to get a Huawei Certification.
-
-Hello, this a change
